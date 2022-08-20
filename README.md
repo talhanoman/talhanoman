@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/talhan61"><img src="https://api.daily.dev/devcards/28b68858ea244328b005a572b3d92f62.png?r=17h" width="400" alt="Talha Noman's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/talhanoman/talhanoman/blob/master/devcard.svg" width="400" alt="Talha Noman's Dev Card"/></a>
 <!--
 **talhanoman/talhanoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

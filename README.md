@@ -1,4 +1,6 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/talhanoman/talhanoman/blob/main/devcard.svg" width="400" alt="Talha Noman's Dev Card"/></a>
+<br/>
+<a href="https://www.toptal.com/developers/resume/talha-noman#3RLzlD"><img src="toptal-badge.svg" width="212" alt="Toptal Top 3% Talent — Hire Talha Noman"/></a>
 <!--
 **talhanoman/talhanoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
